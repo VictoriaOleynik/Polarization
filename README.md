@@ -1,7 +1,7 @@
 # Polarization
-##*Joint work with Fuad Aleskerov*
+*Joint work with Fuad Aleskerov*
 
-### The story about polarization in the European Parliament
+The story about polarization in the European Parliament
 
 ## Multidimensional Polarization Index with Weighted Distances
 1. Model
