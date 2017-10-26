@@ -1,5 +1,5 @@
 # Polarization
-*Joint work with Fuad Aleskerov*
+*Fuad Aleskerov, Victoria Oleynik*
 
 The story about polarization in the European Parliament
 
